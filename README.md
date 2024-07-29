@@ -7,3 +7,8 @@ performance metrics and trends,
 enabling stakeholders to monitor
 and analyze credit card operations
 effectively.
+
+Import data to SQL database
+1. Prepare csv file
+2. Create tables in SQL
+3. import csv file into SQL
