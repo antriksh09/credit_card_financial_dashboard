@@ -14,7 +14,9 @@ Import data to SQL database:
 3. import csv file into SQL
 
 Project Insights- Week 53 (31st Dec)
+
 WoW change:
+
 • Revenue increased by 28.8%,
 
 • Total Transaction Amt & Count increased by xx% & xx%
